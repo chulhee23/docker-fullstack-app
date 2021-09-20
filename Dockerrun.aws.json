@@ -10,7 +10,7 @@
     },
     {
       "name": "backend",
-      "image": "chulhee23/docker-backebd",
+      "image": "chulhee23/docker-backend",
       "hostname": "backend",
       "essential": false,
       "memory": 128
